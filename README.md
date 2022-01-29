@@ -1,5 +1,5 @@
 # projetostack
-Projeto Stack Labs do time koalas
+Projeto Stack Labs do time koalas apresentado no dia 27/01/2022
 Integrantes: Clarice Saoto, Isis Souza, Marcos Costa, Octavio Oliveira e Peterson Silva
 
 No corpo da pasta principal há os principais arquivos utilizados no processo.
