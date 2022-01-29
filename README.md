@@ -1,5 +1,5 @@
 # projetostack
-Projeto Stack do time koalas
+Projeto Stack Labs do time koalas
 Integrantes: Clarice Saoto, Isis Souza, Marcos Costa, Octavio Oliveira e Peterson Silva
 
 No corpo da pasta principal há os principais arquivos utilizados no processo.
