@@ -1,6 +1,6 @@
 # projetostack
 Projeto Stack Labs do time koalas apresentado no dia 27/01/2022
-Integrantes: Clarice Saoto, Isis Souza, Marcos Costa, Octavio Oliveira e Peterson Silva
+Integrantes: Clarice Satiko Aoto, Isis Souza, Marcos Costa, Octavio Oliveira e Peterson Silva
 
 No corpo da pasta principal há os principais arquivos utilizados no processo.
 1) 20220126_MAQUINA_PREDITIVA.ipynb: traz o código utilizado para Machine Learning
